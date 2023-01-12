@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxiaowo=self.webpackChunkxiaowo||[]).push([[750],{2843:e=>{e.exports=JSON.parse('{"title":"\u7b54\u9898","slug":"/category/\u7b54\u9898","permalink":"/en/docs/category/\u7b54\u9898","navigation":{"next":{"title":"\u8bb0\u5f55","permalink":"/en/docs/category/\u8bb0\u5f55"}}}')}}]);
