@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxiaowo=self.webpackChunkxiaowo||[]).push([[9758],{1853:e=>{e.exports=JSON.parse('{"title":"\u5c0f\u7a9d\u7b54\u9898","slug":"/category/\u5c0f\u7a9d\u7b54\u9898","permalink":"/docs/category/\u5c0f\u7a9d\u7b54\u9898","navigation":{"next":{"title":"\u7b54\u9898\u8bb0\u5f55","permalink":"/docs/category/\u7b54\u9898\u8bb0\u5f55"}}}')}}]);
