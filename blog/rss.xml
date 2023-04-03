@@ -4,10 +4,21 @@
         <title>只是为了好玩 Blog</title>
         <link>https://vanillazi.github.io/blog</link>
         <description>只是为了好玩 Blog</description>
-        <lastBuildDate>Sun, 26 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[Blockly写脚本]]></title>
+            <link>https://vanillazi.github.io/blog/Blockly写脚本</link>
+            <guid>https://vanillazi.github.io/blog/Blockly写脚本</guid>
+            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[可视化编程实现了QQ小窝自动钓鱼]]></description>
+            <content:encoded><![CDATA[<p>可视化编程实现了QQ小窝自动钓鱼
+<img loading="lazy" src="/assets/images/script-97d5bf79dc0569698e071f173ebd4ea9.png" width="1093" height="948" class="img_ev3q"></p>]]></content:encoded>
+            <category>Blockly</category>
+            <category>脚本</category>
+        </item>
         <item>
             <title><![CDATA[今天又办了一期答题活动]]></title>
             <link>https://vanillazi.github.io/blog/今天又办了一期答题活动</link>

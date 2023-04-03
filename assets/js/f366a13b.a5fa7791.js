@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxiaowo=self.webpackChunkxiaowo||[]).push([[6010],{6975:l=>{l.exports=JSON.parse('{"label":"Blockly","permalink":"/blog/tags/blockly","allTagsPath":"/blog/tags","count":1}')}}]);
